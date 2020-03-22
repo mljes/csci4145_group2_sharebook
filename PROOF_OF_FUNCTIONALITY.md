@@ -1,10 +1,5 @@
 # CSCI4145 LaaS Project
-## Milestone 5 – Proof of Functionality
 ## Group 2 - Sharebook
-Samantha Butler  
-Maria Jessen  
-Robin Messenger  
-Jennifer Protich  
 ____
 
 ## [GET] /login
