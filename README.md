@@ -1,4 +1,4 @@
-# SHAREBOOK
+# SHAREBOOK API
 <span style="color: red">Make calls to the API at http://3.95.153.203:5000</span>
 ## `/login`
 ### GET
